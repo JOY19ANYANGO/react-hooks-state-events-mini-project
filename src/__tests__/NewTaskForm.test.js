@@ -1,3 +1,5 @@
+// Assuming you are using the modified App component as mentioned earlier
+
 import "@testing-library/jest-dom";
 import { render, screen, fireEvent } from "@testing-library/react";
 import NewTaskForm from "../components/NewTaskForm";
